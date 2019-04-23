@@ -11,8 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".SecondActivity"
-            android:theme="@style/Theme.Transparent">
+        <activity android:name=".SecondActivity">
 
         </activity>
         <activity android:name=".MainActivity">
