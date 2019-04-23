@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
     public void openSecondActivity(View v) {
         Intent intent = new Intent(this, SecondActivity.class);
         startActivity(intent);
-        Log.d(TAG, "openSecondActivity: called");
+//        Log.d(TAG, "openSecondActivity: called");
     }
 
 }
